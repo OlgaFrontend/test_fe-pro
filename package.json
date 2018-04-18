@@ -1,0 +1,19 @@
+{
+  "name": "test_prjctr_fe_pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olga Dubynka",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-jade": "^1.1.0",
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {}
+}
